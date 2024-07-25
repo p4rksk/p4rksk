@@ -25,7 +25,6 @@
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST%20API-412991?style=for-the-badge&logo=api&logoColor=white"/>
   </p>
-  <br/>
 ### :영화예매: 영화 예매 플랫폼 Metabox
 - [https://github.com/coderyu5523/project-spring-falling](https://github.com/p4rksk/project-metabox)
   <br>
@@ -68,7 +67,6 @@
   ![AmazonAWS](https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
   ![Gradle](https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
   </p>
-  <br/>
 ### :사무실: 이력서 사이트 JaBola v2
 - [https://github.com/coderyu5523/project-jobplan-v2-RestAPI](https://github.com/p4rksk/miniproject-jobala-v2-restapi)
   <p>

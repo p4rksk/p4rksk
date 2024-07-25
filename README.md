@@ -25,26 +25,27 @@
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST%20API-412991?style=for-the-badge&logo=api&logoColor=white"/>
   </p>
+  
 ### :영화예매: 영화 예매 플랫폼 Metabox
-- [https://github.com/coderyu5523/project-spring-falling](https://github.com/p4rksk/project-metabox)
+- (https://github.com/p4rksk/project-metabox)
   <br>
   <p>
-  ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-blue?logo=intellij-idea&logoColor=white)
-  ![Cursor AI](https://img.shields.io/badge/-Cursor%20AI-black?logo=coursera&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-  ![CSS](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white)
-  ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-brightgreen?logo=spring&logoColor=white)
-  ![Redis](https://img.shields.io/badge/Redis-black?logo=redis&logoColor=white)
-  ![JPA](https://img.shields.io/badge/JPA-red?logo=spring&logoColor=white)
-  ![FFmpeg](https://img.shields.io/badge/FFmpeg-green?logo=ffmpeg&logoColor=white)
-  ![jQuery](https://img.shields.io/badge/jQuery-blue?logo=jquery&logoColor=white)
-  ![JUnit](https://img.shields.io/badge/JUnit-green?logo=junit5&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/BootStrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)
-  ![H2](https://img.shields.io/badge/-H2-orange?logo=amazondocumentdb&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-black?&logo=mysql&logoColor=white)
+  <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-blue?logo=intellij-idea&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Cursor%20AI-black?logo=coursera&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Spring%20Boot-brightgreen?logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-black?logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/JPA-red?logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/FFmpeg-green?logo=ffmpeg&logoColor=white"/>
+<img src="https://img.shields.io/badge/jQuery-blue?logo=jquery&logoColor=white"/>
+<img src="https://img.shields.io/badge/JUnit-green?logo=junit5&logoColor=white"/>
+<img src="https://img.shields.io/badge/BootStrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/-H2-orange?logo=amazondocumentdb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-black?&logo=mysql&logoColor=white"/>
    </p>
-   <br/>
+   
 ### :쇼핑몰: 코디 아이템 중계 플랫폼 및 앱 ROPA
 - 프론트(Flutter) :[[https://github.com/p4rksk/shelf-flutter-project](https://github.com/p4rksk/shelf-project)](https://github.com/p4rksk/ropa-flutter-project)
 - 백엔드(Spring) : [[https://github.com/coderyu5523/project-final-spring](https://github.com/p4rksk/shelf-project)](https://github.com/p4rksk/ropa-admin.)
@@ -64,9 +65,10 @@
   <img src="https://img.shields.io/badge/H2-FFA500?style=for-the-badge&logo=H2&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST%20API-412991?style=for-the-badge&logo=api&logoColor=white"/>
-  ![AmazonAWS](https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-  ![Gradle](https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"/>
   </p>
+  
 ### :사무실: 이력서 사이트 JaBola v2
 - [https://github.com/coderyu5523/project-jobplan-v2-RestAPI](https://github.com/p4rksk/miniproject-jobala-v2-restapi)
   <p>
@@ -77,9 +79,10 @@
   <img src="https://img.shields.io/badge/H2-FFA500?style=for-the-badge&logo=H2&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST%20API-412991?style=for-the-badge&logo=api&logoColor=white"/>
-    ![Base64](https://img.shields.io/badge/base64-FFA500?style=flat&logo=base64&logoColor=white)
-   ![AWS](https://img.shields.io/badge/Amazonaws-232F3E?style=flat&logo=amazonaws&logoColor=white)      
+  <img src="https://img.shields.io/badge/base64-FFA500?style=flat&logo=base64&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazonaws-232F3E?style=flat&logo=amazonaws&logoColor=white"/>  
   </p>
+  
 ### :사무실: 이력서 사이트 JaBola v1
 - [https://github.com/coderyu5523/project-jobplan-v1](https://github.com/p4rksk/miniproject-jobala)
   <p>

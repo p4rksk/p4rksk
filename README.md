@@ -30,21 +30,22 @@
 - (https://github.com/p4rksk/project-metabox)
   <br>
   <p>
-  <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-blue?logo=intellij-idea&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Cursor%20AI-black?logo=coursera&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Spring%20Boot-brightgreen?logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-black?logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JPA-red?logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FFmpeg-green?logo=ffmpeg&logoColor=white"/>
-  <img src="https://img.shields.io/badge/jQuery-blue?logo=jquery&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JUnit-green?logo=junit5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/BootStrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-H2-orange?logo=amazondocumentdb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-black?&logo=mysql&logoColor=white"/>
-   </p>
+ <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-blue?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+ <img src="https://img.shields.io/badge/-Cursor%20AI-black?style=for-the-badge&logo=coursera&logoColor=white"/>
+ <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+ <img src="https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=css3&logoColor=white"/>
+ <img src="https://img.shields.io/badge/-Spring%20Boot-brightgreen?style=for-the-badge&logo=spring&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Redis-black?style=for-the-badge&logo=redis&logoColor=white"/>
+ <img src="https://img.shields.io/badge/JPA-red?style=for-the-badge&logo=spring&logoColor=white"/>
+ <img src="https://img.shields.io/badge/FFmpeg-green?style=for-the-badge&logo=ffmpeg&logoColor=white"/>
+ <img src="https://img.shields.io/badge/jQuery-blue?style=for-the-badge&logo=jquery&logoColor=white"/>
+ <img src="https://img.shields.io/badge/JUnit-green?style=for-the-badge&logo=junit5&logoColor=white"/>
+ <img src="https://img.shields.io/badge/BootStrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+ <img src="https://img.shields.io/badge/-H2-orange?style=for-the-badge&logo=amazondocumentdb&logoColor=white"/>
+ <img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=white"/>
+ </p>
+
    
 ### :쇼핑몰: 코디 아이템 중계 플랫폼 및 앱 ROPA
 - 프론트(Flutter) :[[https://github.com/p4rksk/shelf-flutter-project](https://github.com/p4rksk/shelf-project)](https://github.com/p4rksk/ropa-flutter-project)
@@ -79,9 +80,10 @@
   <img src="https://img.shields.io/badge/H2-FFA500?style=for-the-badge&logo=H2&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST%20API-412991?style=for-the-badge&logo=api&logoColor=white"/>
-  <img src="https://img.shields.io/badge/base64-FFA500?style=flat&logo=base64&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Amazonaws-232F3E?style=flat&logo=amazonaws&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/base64-FFA500?style=for-the-badge&logo=base64&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   </p>
+
   
 ### :사무실: 이력서 사이트 JaBola v1
 - [https://github.com/coderyu5523/project-jobplan-v1](https://github.com/p4rksk/miniproject-jobala)

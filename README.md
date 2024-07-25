@@ -1,4 +1,4 @@
-# :손인사: 예리한 분석력과 도전정신이 강한 개발자
+# 손인사: 예리한 분석력과 도전정신이 강한 개발자
 ## 블로그&노션
 - 노션 : [https://just-vanilla-09b.notion.site/5c6234106fc540f685f7e561cc807bcf?pvs=4](https://typical-trick-410.notion.site/83105cc6109e4d05ac9dfbedbcc89868?pvs=4)
 ## 프로젝트 주소

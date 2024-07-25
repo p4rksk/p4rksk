@@ -31,19 +31,19 @@
   <br>
   <p>
   <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-blue?logo=intellij-idea&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Cursor%20AI-black?logo=coursera&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Spring%20Boot-brightgreen?logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-black?logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/JPA-red?logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/FFmpeg-green?logo=ffmpeg&logoColor=white"/>
-<img src="https://img.shields.io/badge/jQuery-blue?logo=jquery&logoColor=white"/>
-<img src="https://img.shields.io/badge/JUnit-green?logo=junit5&logoColor=white"/>
-<img src="https://img.shields.io/badge/BootStrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/-H2-orange?logo=amazondocumentdb&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-black?&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Cursor%20AI-black?logo=coursera&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Spring%20Boot-brightgreen?logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-black?logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JPA-red?logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FFmpeg-green?logo=ffmpeg&logoColor=white"/>
+  <img src="https://img.shields.io/badge/jQuery-blue?logo=jquery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JUnit-green?logo=junit5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BootStrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-H2-orange?logo=amazondocumentdb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-black?&logo=mysql&logoColor=white"/>
    </p>
    
 ### :쇼핑몰: 코디 아이템 중계 플랫폼 및 앱 ROPA

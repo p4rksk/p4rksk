@@ -30,21 +30,21 @@
 - (https://github.com/p4rksk/project-metabox)
   <br>
   <p>
- <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-blue?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
- <img src="https://img.shields.io/badge/-Cursor%20AI-black?style=for-the-badge&logo=coursera&logoColor=white"/>
- <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white"/>
- <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
- <img src="https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=css3&logoColor=white"/>
- <img src="https://img.shields.io/badge/-Spring%20Boot-brightgreen?style=for-the-badge&logo=spring&logoColor=white"/>
- <img src="https://img.shields.io/badge/Redis-black?style=for-the-badge&logo=redis&logoColor=white"/>
- <img src="https://img.shields.io/badge/JPA-red?style=for-the-badge&logo=spring&logoColor=white"/>
- <img src="https://img.shields.io/badge/FFmpeg-green?style=for-the-badge&logo=ffmpeg&logoColor=white"/>
- <img src="https://img.shields.io/badge/jQuery-blue?style=for-the-badge&logo=jquery&logoColor=white"/>
- <img src="https://img.shields.io/badge/JUnit-green?style=for-the-badge&logo=junit5&logoColor=white"/>
- <img src="https://img.shields.io/badge/BootStrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
- <img src="https://img.shields.io/badge/-H2-orange?style=for-the-badge&logo=amazondocumentdb&logoColor=white"/>
- <img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=white"/>
- </p>
+  <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-blue?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Cursor%20AI-black?style=for-the-badge&logo=coursera&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Spring%20Boot-brightgreen?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-black?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JPA-red?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FFmpeg-green?style=for-the-badge&logo=ffmpeg&logoColor=white"/>
+  <img src="https://img.shields.io/badge/jQuery-blue?style=for-the-badge&logo=jquery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JUnit-green?style=for-the-badge&logo=junit5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BootStrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-H2-orange?style=for-the-badge&logo=amazondocumentdb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=white"/>
+  </p>
 
    
 ### :쇼핑몰: 코디 아이템 중계 플랫폼 및 앱 ROPA

@@ -28,8 +28,8 @@
   
 ### :영화예매: 영화 예매 플랫폼 Metabox
 - (https://github.com/p4rksk/project-metabox)
-  <br>
-<p>
+<br>
+ <p>
  <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-blue?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
  <img src="https://img.shields.io/badge/-Cursor%20AI-black?style=for-the-badge&logo=coursera&logoColor=white"/>
  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white"/>

@@ -4,7 +4,7 @@
 - 노션 : [https://just-vanilla-09b.notion.site/5c6234106fc540f685f7e561cc807bcf?pvs=4](https://typical-trick-410.notion.site/83105cc6109e4d05ac9dfbedbcc89868?pvs=4)
 
 ## 블로그
-- 블로그 : [https://inblog.ai/p4rksk?traffic_type=internal]
+- 블로그 : https://inblog.ai/p4rksk?traffic_type=internal
 
 ## 프로젝트 주소
 

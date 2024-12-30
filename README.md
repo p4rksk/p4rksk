@@ -76,7 +76,7 @@
 </p>
 
 ### :사무실: 이력서 사이트 JaBola v2
-- [https://github.com/coderyu5523/project-jobplan-v2-RestAPI](https://github.com/p4rksk/miniproject-jobala-v2-restapi)
+- [https://github.com/p4rksk/miniproject-jobala-v2-RestAPI](https://github.com/p4rksk/miniproject-jobala-v2-restapi)
 <br>
 <p>
 <img src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
@@ -91,7 +91,7 @@
 </p>
 
 ### :사무실: 이력서 사이트 JaBola v1
-- [https://github.com/coderyu5523/project-jobplan-v1](https://github.com/p4rksk/miniproject-jobala)
+- [https://github.com/p4rksk/miniproject-jobala](https://github.com/p4rksk/miniproject-jobala)
 <br>
 <p>
 <img src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>

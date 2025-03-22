@@ -10,7 +10,7 @@
 
 ### :E-BOOK: E-BOOK 앱 및 플랫폼 Shelf
 - 프론트(Flutter) : [https://github.com/p4rksk/shelf-flutter-project](https://github.com/p4rksk/shelf-project)
-- 백엔드(Spring) : [https://github.com/coderyu5523/project-final-spring](https://github.com/p4rksk/shelf-project)
+- 백엔드(Spring) : [https://github.com/p4rksk/shelf-project](https://github.com/p4rksk/shelf-project)
 <br>
 <p>
 <img src="https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white"/>

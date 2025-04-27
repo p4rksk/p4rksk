@@ -7,7 +7,7 @@
 - 블로그 : https://inblog.ai/p4rksk?traffic_type=internal
 
 ## 프로젝트 주소
-### :루틴 회고 플랫폼 WR
+### :루틴 회고: 루틴 회고 플랫폼 WR
 - [https://github.com/p4rksk/WR](https://github.com/p4rksk/WR)
 <br>
 <p>

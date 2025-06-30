@@ -7,7 +7,7 @@
 - 블로그 : https://inblog.ai/p4rksk?traffic_type=internal
 
 ## 프로젝트 주소
-### :실시간 GIS 플랫폼: 위치 기반 버스 길찾기 & 추천 서비스 SmartPathGIS
+### :WR(실시간 알림 루틴 플랫폼)
 - [https://github.com/p4rksk/WR](https://github.com/p4rksk/WR)
 <br>
 <p>
@@ -35,7 +35,7 @@
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 </p>
 
-### :E-BOOK: E-BOOK 앱 및 플랫폼 Shelf
+### :Shelf(E-BOOK 구독독 플랫폼)  
 - 앱(Flutter) : [https://github.com/p4rksk/shelf-flutter-project](https://github.com/p4rksk/shelf-project)
 - 백엔드(Spring) : [https://github.com/p4rksk/shelf-project](https://github.com/p4rksk/shelf-project)
 <br>
@@ -59,9 +59,24 @@
 <img src="https://img.shields.io/badge/REST%20API-412991?style=for-the-badge&logo=api&logoColor=white"/>
 </p>
 
-### :영화예매: 영화 예매 플랫폼 Metabox
-- [https://github.com/p4rksk/project-metabox](https://github.com/p4rksk/project-met앱(Flutter) : [https://github.com/p4rksk/ropa-flutter-project](https://github.com/p4rksk/ropa-project)
-- 백엔드(Spring) : [https://github.com/coderyu5523/project-final-spring](https://github.com/p4rksk/ropa-admin)
+### :Metabox(영화 예매 플랫폼)  
+- [https://github.com/p4rksk/project-metabox](https://github.com/p4rksk/project-metabox)
+<br>
+<p>
+<img src="https://img.shields.io/badge/-IntelliJ%20IDEA-blue?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Cursor%20AI-black?style=for-the-badge&logo=coursera&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Spring%20Boot-brightgreen?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-black?style=for-the-badge&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/JPA-red?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/FFmpeg-green?style=for-the-badge&logo=ffmpeg&logoColor=white"/>
+<img src="https://img.shields.io/badge/jQuery-blue?style=for-the-badge&logo=jquery&logoColor=white"/>
+<img src="https://img.shields.io/badge/JUnit-green?style=for-the-badge&logo=junit5&logoColor=white"/>
+<img src="https://img.shields.io/badge/BootStrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge앱(Flutter) : [https://github.com/p4rksk/ropa-flutter-project](https://github.com/p4rksk/ropa-project)
+- 백엔드(Spring) : [https://github.com/p4rksk/ropa-admin](https://github.com/p4rksk/ropa-admin)
 <br>
 <p>
 <img src="https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white"/>
@@ -82,7 +97,7 @@
 <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"/>
 </p>
 
-### :사무실: 이력서 사이트 JaBola v2
+### :JaBola v2(RestAPI 전환 프로젝트) 
 - [https://github.com/p4rksk/miniproject-jobala-v2-RestAPI](https://github.com/p4rksk/miniproject-jobala-v2-restapi)
 <br>
 <p>
@@ -97,7 +112,7 @@
 <img src="https://img.shields.io/badge/Amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </p>
 
-### :사무실: 이력서 사이트 JaBola v1
+### : JaBola v1(이력서 플랫폼) 
 - [https://github.com/p4rksk/miniproject-jobala](https://github.com/p4rksk/miniproject-jobala)
 <br>
 <p>

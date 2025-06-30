@@ -75,8 +75,13 @@
 <img src="https://img.shields.io/badge/jQuery-blue?style=for-the-badge&logo=jquery&logoColor=white"/>
 <img src="https://img.shields.io/badge/JUnit-green?style=for-the-badge&logo=junit5&logoColor=white"/>
 <img src="https://img.shields.io/badge/BootStrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge앱(Flutter) : [https://github.com/p4rksk/ropa-flutter-project](https://github.com/p4rksk/ropa-project)
-- 백엔드(Spring) : [https://github.com/p4rksk/ropa-admin](https://github.com/p4rksk/ropa-admin)
+<img src="https://img.shields.io/badge/-H2-orange?style=for-the-badge&logo=amazondocumentdb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+### :ROPA(코디, 의류 중계 쇼핑몰 플랫폼) 
+- 프론트(Flutter) : [https://github.com/p4rksk/ropa-flutter-project](https://github.com/p4rksk/ropa-project)
+- 백엔드(Spring) : [https://github.com/coderyu5523/project-final-spring](https://github.com/p4rksk/ropa-admin)
 <br>
 <p>
 <img src="https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white"/>

@@ -1,5 +1,4 @@
-# 기능 구현보다 사용자 경험의 "왜?"를 묻는 개발자 박선규입니다.
-
+# 왜? 사용해야하는지를 먼저 고민하는 개발자 박선규입니다.
 ## 노션
 - 노션 : [https://just-vanilla-09b.notion.site/5c6234106fc540f685f7e561cc807bcf?pvs=4](https://typical-trick-410.notion.site/83105cc6109e4d05ac9dfbedbcc89868?pvs=4)
 

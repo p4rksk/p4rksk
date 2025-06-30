@@ -7,7 +7,7 @@
 - 블로그 : https://inblog.ai/p4rksk?traffic_type=internal
 
 ## 프로젝트 주소
-### :🛰️ 실시간 GIS 플랫폼: 위치 기반 버스 길찾기 & 추천 서비스 SmartPathGIS
+### :실시간 GIS 플랫폼: 위치 기반 버스 길찾기 & 추천 서비스 SmartPathGIS
 - [https://github.com/p4rksk/Directions_GIS](https://github.com/p4rksk/Directions_GIS)
 <br>
 <p>

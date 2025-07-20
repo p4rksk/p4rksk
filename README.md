@@ -7,7 +7,7 @@
 
 ## 프로젝트 주소
 ### :WR(실시간 알림 루틴 플랫폼)
-- [https://github.com/p4rksk/WR](https://github.com/p4rksk/WR)
+- [https://github.com/p4rksk/WR](https://github.com/p4rksk/WR_React)
 <br>
 <p>
 <img src="https://img.shields.io/badge/BootStrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>

@@ -29,7 +29,7 @@
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 </p>
 
-### :Shelf(E-BOOK 구독독 플랫폼)  
+### :Shelf(E-BOOK 구독 플랫폼)  
 - 앱(Flutter) : [https://github.com/p4rksk/shelf-flutter-project](https://github.com/p4rksk/shelf-project)
 - 백엔드(Spring) : [https://github.com/p4rksk/shelf-project](https://github.com/p4rksk/shelf-project)
 <br>

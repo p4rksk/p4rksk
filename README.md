@@ -3,28 +3,26 @@
 - 노션 : [https://just-vanilla-09b.notion.site/5c6234106fc540f685f7e561cc807bcf?pvs=4](https://typical-trick-410.notion.site/83105cc6109e4d05ac9dfbedbcc89868?pvs=4)
 
 ## 프로젝트 주소
-### :WR(실시간 알림 루틴 플랫폼)
-- [https://github.com/p4rksk/WR_React](https://github.com/p4rksk/WR_React)
-<br>
-<p>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Spring%20Boot-brightgreen?style=for-the-badge&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/WebSocket-35495E?style=for-the-badge&logo=websocket&logoColor=white"/>
-<img src="https://img.shields.io/badge/H2-FFA500?style=for-the-badge&logo=H2&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-black?style=for-the-badge&logo=redis&logoColor=white"/>  
-<img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-</p>
+### :Site-Agent(현장 근무자 AI 지식 가이드)
 
-*1차 리펙토링 도입예정
-<p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-</p>
+> 관리자가 PDF를 업로드하면, 사용자가 질문했을 때 PDF 내용을 근거로 AI가 답변하는 RAG 기반 지식 안내 시스템
+
+- 프론트엔드(Next.js) : https://github.com/p4rksk/Site_agent_front
+- 백엔드(FastAPI) : https://github.com/p4rksk/Site_agent
+- 관리자 화면 (PDF 업로드) : https://site-agent-front.vercel.app/admin
+- 사용자 화면 (AI 질문 답변) : https://site-agent-front.vercel.app/
+
+![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FASTAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![LANGCHAIN](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![NEXT.JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TYPESCRIPT](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![GEMINI](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![PYMUPDF](https://img.shields.io/badge/PyMuPDF-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-00599C?style=for-the-badge&logo=meta&logoColor=white)
+![VERCEL](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![RENDER](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+
 
 ### :Shelf(E-BOOK 구독 플랫폼)  
 - 앱(Flutter) : [https://github.com/p4rksk/shelf-flutter-project](https://github.com/p4rksk/shelf-project)

@@ -1,7 +1,8 @@
 # 왜? 이 기술을 사용해야하는지를 먼저 고민하는 엔지니어 박선규입니다.
-## 노션
-- 노션 : [https://just-vanilla-09b.notion.site/5c6234106fc540f685f7e561cc807bcf?pvs=4](https://typical-trick-410.notion.site/83105cc6109e4d05ac9dfbedbcc89868?pvs=4)
+## 블로그
 - 인블로그 : [https://p4rksk.inblog.io/?traffic_type=internal](https://p4rksk.inblog.io/?traffic_type=internal)
+- 노션 : [https://just-vanilla-09b.notion.site/5c6234106fc540f685f7e561cc807bcf?pvs=4](https://typical-trick-410.notion.site/83105cc6109e4d05ac9dfbedbcc89868?pvs=4)
+
 
 ## 프로젝트 주소
 ### :Site-Agent(현장 근무자 AI 지식 가이드)

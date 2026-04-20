@@ -10,7 +10,7 @@
 > 관리자가 PDF를 업로드하면, 사용자가 질문했을 때 PDF 내용을 근거로 AI가 답변하는 RAG 기반 지식 안내 시스템
 
 - 프론트엔드(Next.js) : https://github.com/p4rksk/Site_agent_front
-- 백엔드(FastAPI) : https://github.com/p4rksk/Site_agent
+- 백엔드(FastAPI) : https://github.com/p4rksk/Site_agent_ai
 - 관리자 화면 (PDF 업로드) : https://site-agent-front.vercel.app/admin
 - 사용자 화면 (AI 질문 답변) : https://site-agent-front.vercel.app/
 

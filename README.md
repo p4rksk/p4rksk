@@ -11,8 +11,7 @@
 
 - 프론트엔드(Next.js) : https://github.com/p4rksk/Site_agent_front
 - 백엔드(FastAPI) : https://github.com/p4rksk/Site_agent_ai
-- 관리자 화면 (PDF 업로드) : https://site-agent-front.vercel.app/admin
-- 사용자 화면 (AI 질문 답변) : https://site-agent-front.vercel.app/
+- 실제 URL : https://site-agent-front.vercel.app
 
 ![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FASTAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)

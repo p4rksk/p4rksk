@@ -10,12 +10,14 @@
 > 관리자가 PDF를 업로드하면, 사용자가 질문했을 때 PDF 내용을 근거로 AI가 답변하는 RAG 기반 지식 안내 시스템
 
 - 프론트엔드(Next.js) : https://github.com/p4rksk/Site_agent_front
-- 백엔드(FastAPI) : https://github.com/p4rksk/Site_agent_ai
+- AI(LANGCHAIN) : https://github.com/p4rksk/Site_agent_ai
+- 백엔드(SPRING BOOT) : https://github.com/p4rksk/Site_agent
 - 실제 URL : https://site-agent-front.vercel.app
 
 ![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FASTAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![LANGCHAIN](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+<img src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 ![NEXT.JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![GEMINI](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)

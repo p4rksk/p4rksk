@@ -5,6 +5,31 @@
 
 
 ## 프로젝트 주소
+### :ValueHub(중고·프리미엄 거래 마켓플레이스)
+- 중고·프리미엄 상품을 사고파는 MSA 마켓플레이스. 실시간 채팅(WebSocket/STOMP)과 Kafka 이벤트로 거래·알림을 처리합니다.
+- 프론트엔드(Next.js): https://github.com/SpartaValueHub/ValueHub-FE
+- 백엔드(SPRING BOOT MSA): https://github.com/SpartaValueHub
+- 인프라(AWS): https://github.com/SpartaValueHub/ValueHub-AWS-Infra
+- 실제 URL: https://valuehub-fe.vercel.app
+
+![Java 17](https://img.shields.io/badge/Java_17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![WebSocket/STOMP](https://img.shields.io/badge/WebSocket%2FSTOMP-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Amazon EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+
+
 ### :Site-Agent(현장 근무자 AI 지식 가이드)
 
 > 관리자가 PDF를 업로드하면, 사용자가 질문했을 때 PDF 내용을 근거로 AI가 답변하는 RAG 기반 지식 안내 시스템

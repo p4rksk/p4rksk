@@ -6,7 +6,7 @@
 
 ## 프로젝트 주소
 ### :ValueHub(중고·프리미엄 거래 마켓플레이스)
-- 중고·프리미엄 상품을 사고파는 MSA 마켓플레이스. 실시간 채팅(WebSocket/STOMP)과 Kafka 이벤트로 거래·알림을 처리합니다.
+> 중고·프리미엄 상품을 사고파는 MSA 마켓플레이스. 실시간 채팅(WebSocket/STOMP)과 Kafka 이벤트로 거래·알림을 처리합니다.
 - 프론트엔드(Next.js): https://github.com/SpartaValueHub/ValueHub-FE
 - 백엔드(SPRING BOOT MSA): https://github.com/SpartaValueHub
 - 인프라(AWS): https://github.com/SpartaValueHub/ValueHub-AWS-Infra

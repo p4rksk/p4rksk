@@ -8,7 +8,7 @@
 ### :ValueHub(중고·프리미엄 거래 마켓플레이스)
 > 중고·프리미엄 상품을 사고파는 MSA 마켓플레이스. 실시간 채팅(WebSocket/STOMP)과 Kafka 이벤트로 거래·알림을 처리합니다.
 - 프론트엔드(Next.js): https://github.com/SpartaValueHub/ValueHub-FE
-- 백엔드(SPRING BOOT MSA): https://github.com/SpartaValueHub
+- 백엔드(SPRING BOOT MSA): [https://github.com/SpartaValueHub](https://github.com/p4rksk/Reservations-Service), https://github.com/p4rksk/Chat-Service
 - 인프라(AWS): https://github.com/SpartaValueHub/ValueHub-AWS-Infra
 
 ![Java 17](https://img.shields.io/badge/Java_17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)

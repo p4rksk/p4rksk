@@ -10,7 +10,6 @@
 - 프론트엔드(Next.js): https://github.com/SpartaValueHub/ValueHub-FE
 - 백엔드(SPRING BOOT MSA): https://github.com/SpartaValueHub
 - 인프라(AWS): https://github.com/SpartaValueHub/ValueHub-AWS-Infra
-- 실제 URL: https://valuehub-fe.vercel.app
 
 ![Java 17](https://img.shields.io/badge/Java_17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -37,7 +36,6 @@
 - 프론트엔드(Next.js) : https://github.com/p4rksk/Site_agent_front
 - AI(LANGCHAIN) : https://github.com/p4rksk/Site_agent_ai
 - 백엔드(SPRING BOOT) : https://github.com/p4rksk/Site_agent
-- 실제 URL : https://site-agent-front.vercel.app
 
 ![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FASTAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
